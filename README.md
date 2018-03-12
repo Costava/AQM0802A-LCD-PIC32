@@ -1,6 +1,6 @@
 # AQM0802A-LCD-PIC32
 
-PIC32 library for the AQM0802A-RN-GBW 8x2 character LCD display. The LCD uses I2C.
+PIC32 library for the AQM0802A-RN-GBW 8x2 character LCD display. The LCD uses I2C. Imprecise blocking delays are used.
 
 [AQM0802A-RN-GBW datasheet](http://akizukidenshi.com/download/ds/xiamen/AQM0802.pdf)
 
